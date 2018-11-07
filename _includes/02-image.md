@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Polar Bear Walking](https://cdn.images.express.co.uk/img/dynamic/109/590x/Polar-Bear-924655.jpg "Walking Polar Bear")
